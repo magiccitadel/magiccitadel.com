@@ -13,7 +13,7 @@ body {
 header {
   width: 100%;
   padding: 0 20px;
-  background: linear-gradient(55deg, rgb(0, 12, 11), rgb(2, 87, 90));
+background-image: linear-gradient(to right, #01c499 0%, #720074 100%);
   display: flex;
   justify-content: space-between;
   align-items: center;
