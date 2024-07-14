@@ -11,7 +11,7 @@ background: linear-gradient(0deg, black 30%, rgb(0, 26, 23) 60%, black 90%);
 header{
 width: 100%;
 padding: 0 20px;
-   background: linear-gradient(55deg, rgb(0, 12, 11), rgb(2, 87, 90));
+  background-image: linear-gradient(to right, #03d1a4 0%, #8c028f 100%);
    display: flex;
     justify-content: space-between;
     align-items: center;
@@ -38,6 +38,7 @@ padding: 0 20px;
        }   
         }
         h2{
+             font-family: "Kanit", sans-serif;
             color: #ffffff;
        padding: 0 10px;
        margin: 0;
