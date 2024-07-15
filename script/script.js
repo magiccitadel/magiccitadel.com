@@ -113,7 +113,7 @@ document.addEventListener("DOMContentLoaded", function () {
   let projecttext = gsap.timeline({
       scrollTrigger: {
           trigger: "#project-text",
-          start: "top center",
+          start: "top 80%",
           end: "top center",
           scurb: true,
           toggleActions: "play none none none",
